@@ -2,6 +2,8 @@ line 1
 v1 changes developer 1
 developer 1 new line 1
 developer 2 new line 2
+developer 2 new line 3
+developer 2 new line 4
 line 2
 line 3
 line 4
